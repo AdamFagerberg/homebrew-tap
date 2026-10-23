@@ -1,8 +1,8 @@
 class Teddytokens < Formula
   desc "Watch Claude Code token spend pile up as falling pixel-art characters"
   homepage "https://github.com/AdamFagerberg/teddytokens"
-  url "https://github.com/AdamFagerberg/teddytokens/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "7cdccc33c9ce775faea6cadec9efaf502d078426f9982e3461446adf52277845"
+  url "https://github.com/AdamFagerberg/teddytokens/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "fefd2439b1f9d3c5b9a50cd8da48a25c5607819d0418ff39a47c5ee632952b90"
   license "MIT"
 
   depends_on "go" => :build
